@@ -6,7 +6,7 @@
 
 ## Todo:
 
-- [ ] Scrape user profile page with nodejs (https://medium.freecodecamp.org/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3)
+- [x] Scrape user profile page with nodejs (https://medium.freecodecamp.org/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3)
 - [ ] Design game strategy
 - [ ] Design front-end pages
 - [ ] Design noSQL database
